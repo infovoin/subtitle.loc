@@ -1,0 +1,157 @@
+2016-05-30 22:10:38 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-05-30 22:11:08 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-05-30 22:32:19 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-05-30 22:32:48 ===> W:\domains\mini-framework\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-14 23:01:14 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 32 ===> Извини такого нету
+2016-06-14 23:02:07 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 32 ===> Извини такого нету
+2016-06-14 23:03:03 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 32 ===> Извини такого нету
+2016-06-14 23:03:21 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 32 ===> Извини такого нету
+2016-06-14 23:03:45 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 32 ===> Извини такой страницы нету
+2016-06-14 23:03:52 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 32 ===> Такой страницы нету
+2016-06-15 09:13:11 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-15 16:31:37 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 29 ===> Такой страницы нету
+2016-06-17 08:17:03 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-17 08:17:03 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-18 00:24:43 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-18 01:31:32 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 29 ===> Такой страницы нету
+2016-06-18 01:35:30 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 51 ===> Такой страницы нету
+2016-06-19 05:23:19 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 29 ===> Такой страницы нету
+2016-06-19 05:54:11 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 29 ===> Такой страницы нету
+2016-06-19 22:52:38 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-19 22:53:17 ===> W:\domains\subtitle\App\Classes\DB.php ===> 32 ===> Нет подключения к базе данных
+2016-06-19 23:24:07 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-20 01:05:11 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 29 ===> Такой страницы нету
+2016-06-21 16:29:58 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-21 16:29:58 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-22 20:40:02 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 68 ===> Такой страницы нету
+2016-06-22 20:41:02 ===> W:\domains\subtitle\App\Controllers\Video.php ===> 68 ===> Такой страницы нету
+2016-06-24 20:44:27 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-24 20:44:34 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-24 20:44:41 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-24 20:45:08 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-24 20:45:15 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-24 23:20:07 ===> W:\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate,yandex_dictionary) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate,:yandex_dictionary)params: 18 , 2 , <span data-subtitle_number="2"><span class="word-wrapper">No.</span> <span class="word-wrapper">I'm</span> <span class="word-wrapper">sorry,
+I</span> <span class="word-wrapper">don't</span> <span class="word-wrapper">know</span> <span class="word-wrapper neon-word-wrapper">anyone</span> <span class="word-wrapper">by</span> <span class="word-wrapper">that</span> <span class="word-wrapper">name</span></span> , anyone , кого либо , {"head":{},"def":[{"text":"anyone","pos":"местоимение","ts":"ˈenɪwʌn","tr":[{"text":"никто","pos":"местоимение","syn":[{"text":"кто угодно","pos":"местоимение"}],"mean":[{"text":"no"},{"text":"anybody"}]},{"text":"всякий","pos":"местоимение","syn":[{"text":"каждый","pos":"местоимение"}],"mean":[{"text":"any"},{"text":"each"}]}]},{"text":"anyone","pos":"существительное","ts":"ˈenɪwʌn","tr":[{"text":"все","pos":"существительное","mean":[{"text":"everyone"}]}]}]}
+2016-06-27 18:37:59 ===> W:\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-29 10:53:21 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-29 10:53:29 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-29 10:54:11 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-29 10:57:26 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-29 10:57:54 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-06-29 10:59:44 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-07-03 10:24:21 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 31 ===> Нет подключения к базе данных
+2016-07-03 10:52:32 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: UPDATE my_dictionary SET video_id=:video_id , subtitle_id=:subtitle_id , sentence=:sentence , word=:word , translate=:translate , when_repeat=:when_repeat WHERE id = :idparams: 5 , 18 , 5 , <span data-subtitle_number="5"><span class="word-wrapper">Do</span> <span class="word-wrapper">you</span> <span class="word-wrapper neon-word-wrapper">know...
+well</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">me</span> <span class="word-wrapper">what</span> <span class="word-wrapper">he</span> <span class="word-wrapper">likes</span> <span class="word-wrapper">to</span> <span class="word-wrapper">eat</span></span> , know , знание , 2016-13-07 10:52:32
+2016-07-03 10:57:18 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: UPDATE my_dictionary SET video_id=:video_id , subtitle_id=:subtitle_id , sentence=:sentence , word=:word , translate=:translate , when_repeat=:when_repeat WHERE id = :idparams: 10 , 18 , 5 , <span data-subtitle_number="5"><span class="word-wrapper">Do</span> <span class="word-wrapper">you</span> <span class="word-wrapper">know...
+well</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">me</span> <span class="word-wrapper">what</span> <span class="word-wrapper">he</span> <span class="word-wrapper">likes</span> <span class="word-wrapper">to</span> <span class="word-wrapper neon-word-wrapper">eat</span></span> , eat , есть , 2016-13-07 10:57:18
+2016-07-03 10:59:20 ===> E:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: UPDATE my_dictionary SET video_id=:video_id , subtitle_id=:subtitle_id , sentence=:sentence , word=:word , translate=:translate , when_repeat=:when_repeat WHERE id = :idparams: 5 , 18 , 5 , <span data-subtitle_number="5"><span class="word-wrapper">Do</span> <span class="word-wrapper">you</span> <span class="word-wrapper neon-word-wrapper">know...
+well</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">me</span> <span class="word-wrapper">what</span> <span class="word-wrapper">he</span> <span class="word-wrapper">likes</span> <span class="word-wrapper">to</span> <span class="word-wrapper">eat</span></span> , know , знание , 2016-13-07 10:59:20
+2016-09-10 09:26:15 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 5 , <span data-subtitle_number="5"><span class="word-wrapper">Do</span> <span class="word-wrapper">you</span> <span class="word-wrapper">know...
+well</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">me</span> <span class="word-wrapper">what</span> <span class="word-wrapper">he</span> <span class="word-wrapper">likes</span> <span class="word-wrapper">to</span> <span class="word-wrapper neon-word-wrapper">eat</span></span> , eat , есть
+2016-09-10 09:49:44 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 10 , <span data-subtitle_number="10"><span class="word-wrapper">Well,</span> <span class="word-wrapper">with</span> <span class="word-wrapper neon-word-wrapper">Cheese</span> <span class="word-wrapper">Fries,
+Pouched</span> <span class="word-wrapper">Egg,</span> <span class="word-wrapper">Onion</span> <span class="word-wrapper">Rings</span></span> , Cheese , 1231
+2016-09-10 09:52:57 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 18 , <span data-subtitle_number="18"><span class="word-wrapper">Or</span> <span class="word-wrapper">Fried</span> <span class="word-wrapper">Fillet</span> <span class="word-wrapper">of</span> <span class="word-wrapper">Fish
+that</span> <span class="word-wrapper neon-word-wrapper">match</span> <span class="word-wrapper">that</span> <span class="word-wrapper">description</span></span> , match , матч
+2016-09-12 23:14:38 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 942 , <span data-subtitle_number="942"><span class="word-wrapper">To</span> <span class="word-wrapper neon-word-wrapper">define</span> <span class="word-wrapper">us</span> <span class="word-wrapper">and</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">us</span> <span class="word-wrapper">who</span> <span class="word-wrapper">we</span> <span class="word-wrapper">are</span></span> , define , определенный
+2016-09-12 23:14:54 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 942 , <span data-subtitle_number="942"><span class="word-wrapper">To</span> <span class="word-wrapper">define</span> <span class="word-wrapper">us</span> <span class="word-wrapper neon-word-wrapper">and</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">us</span> <span class="word-wrapper">who</span> <span class="word-wrapper">we</span> <span class="word-wrapper">are</span></span> , and , причем
+2016-09-12 23:18:40 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 943 , <span data-subtitle_number="943"><span class="word-wrapper">And</span> <span class="word-wrapper">each</span> <span class="word-wrapper">reflection</span> <span class="word-wrapper neon-word-wrapper">makes</span> <span class="word-wrapper">me
+like</span> <span class="word-wrapper">myself</span> <span class="word-wrapper">a</span> <span class="word-wrapper">little</span> <span class="word-wrapper">more</span></span> , makes , 111
+2016-09-12 23:19:58 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 942 , <span data-subtitle_number="942"><span class="word-wrapper">To</span> <span class="word-wrapper neon-word-wrapper">define</span> <span class="word-wrapper">us</span> <span class="word-wrapper">and</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">us</span> <span class="word-wrapper">who</span> <span class="word-wrapper">we</span> <span class="word-wrapper">are</span></span> , define , определенный
+2016-09-12 23:20:13 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 942 , <span data-subtitle_number="942"><span class="word-wrapper">To</span> <span class="word-wrapper">define</span> <span class="word-wrapper">us</span> <span class="word-wrapper neon-word-wrapper">and</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">us</span> <span class="word-wrapper">who</span> <span class="word-wrapper">we</span> <span class="word-wrapper">are</span></span> , and , и
+2016-09-12 23:22:50 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 942 , <span data-subtitle_number="942"><span class="word-wrapper">To</span> <span class="word-wrapper neon-word-wrapper">define</span> <span class="word-wrapper">us</span> <span class="word-wrapper">and</span> <span class="word-wrapper">tell</span> <span class="word-wrapper">us</span> <span class="word-wrapper">who</span> <span class="word-wrapper">we</span> <span class="word-wrapper">are</span></span> , define , очерчивать
+2016-09-12 23:30:28 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 16 , <span data-subtitle_number="16"><span class="word-wrapper">Sorry,</span> <span class="word-wrapper">I</span> <span class="word-wrapper">can't</span> <span class="word-wrapper">think</span> <span class="word-wrapper">of</span> <span class="word-wrapper">any</span> <span class="word-wrapper">Meat</span> <span class="word-wrapper neon-word-wrapper">Loafs
+with</span> <span class="word-wrapper">Cheese</span> <span class="word-wrapper">Fries</span></span> , Loafs , w32434
+2016-09-12 23:41:12 ===> D:\OpenServer\domains\subtitle\App\Classes\DB.php ===> 88 ===> Запрос выполнен неверное sql: INSERT INTO my_dictionary
+                    (video_id,subtitle_id,sentence,word,translate) VALUES
+                    (:video_id,:subtitle_id,:sentence,:word,:translate)params: 18 , 147 , <span data-subtitle_number="147"><span class="word-wrapper">Not</span> <span class="word-wrapper neon-word-wrapper">really</span></span> , really , это
+2016-09-29 21:32:54 ===> /var/www/subtitle.loc/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-09-29 21:33:50 ===> /var/www/subtitle.loc/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-09-29 21:36:27 ===> /var/www/subtitle.loc/App/Classes/DB.php ===> 48 ===> Запрос выполнен неверное sql: SELECT * FROM videoparams: 
+2016-10-01 09:24:59 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:25:07 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:25:51 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:26:27 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:26:42 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:26:44 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:26:59 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 09:29:35 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:09:08 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:12:16 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:12:54 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:13:02 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:22:12 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:23:58 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:24:25 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:24:53 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:29:07 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:29:18 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:29:20 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:29:36 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:08 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:09 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:10 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:10 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:10 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:10 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:10 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:30:11 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:32:05 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:32:07 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:32:10 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:32:19 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:32:23 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:32:40 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:33:57 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:34:02 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:34:13 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:34:15 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:53:44 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:53:46 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:54:25 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:55:31 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:55:38 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:55:39 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:56:35 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 11:57:48 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 12:27:05 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 12:27:08 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 12:27:15 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 12:27:17 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 12:35:29 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:00:40 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:00:50 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:01:59 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:02:05 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:02:18 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:16:58 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:17:51 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:19:21 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:19:28 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:20:11 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:20:47 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:21:06 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 13:21:09 ===> /var/www/html/App/Classes/DB.php ===> 32 ===> Нет подключения к базе данных
+2016-10-01 22:07:55 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных
+2016-10-01 22:07:59 ===> /var/www/html/App/Classes/DB.php ===> 31 ===> Нет подключения к базе данных

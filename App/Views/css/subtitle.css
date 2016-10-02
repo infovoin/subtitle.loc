@@ -1,0 +1,133 @@
+.word-wrapper:hover {
+    background: #588b4f;
+    color: #fff;
+    border-radius: 1px;
+    padding: 0 1px;
+    margin: 0 -1px;
+    cursor: pointer;
+}
+
+.neon-word-wrapper {
+    background: #588b4f;
+    color: #fff;
+    border-radius: 1px;
+    padding: 0 1px;
+    margin: 0 -1px;
+    cursor: pointer;
+}
+
+#addSentence {
+    font-size: 16px;
+}
+
+.word_header {
+    font-weight: bold;
+}
+
+.chose_word_translate {
+    cursor: pointer;
+    /*border-bottom:1px dashed;*/
+    /*font-weight: bold;*/
+    color: #2a3133;
+}
+
+/*.episode_media_container {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}*/
+
+* {
+    vertical-align: baseline;
+    outline: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.video_wrap {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+/*
+.vid-subs {
+    bottom: 143px;
+    position: absolute!important;
+}
+
+.vid-subs {
+    padding: 15px 20px;
+    right: 0;
+    left: 0;
+    z-index: 10;
+    border-radius: 10px;
+}*/
+
+#information{
+    position: absolute;
+    top: 6%;
+    height: auto;
+    font-family: 'Calibri Light';
+    color: white;
+    font-size: 28px;
+    display: block;
+    /*background: rgba(0, 0, 0, .8);*/
+    z-index: 2147483647;
+    left:44%;
+    width: 400px;
+}
+
+.outer_layer_addSentence{
+
+}
+
+#addSentence {
+    position: absolute;
+    top: 25%;
+    display: table-cell;
+    background: white;
+    z-index: 2147483647;
+    vertical-align: middle;
+    padding: 20px 20px 20px 20px;
+    width:40%;
+    height: auto;
+    left:40%;
+    margin:-100px 0 0 -150px;
+}
+
+
+#place_for_subtitle {
+    position: absolute;
+    bottom: 6%;
+    height: auto;
+    font-family: 'Calibri Light';
+    color: white;
+    font-size: 28px;
+    display: block;
+    background: rgba(0, 0, 0, .8);
+    z-index: 2147483647;
+    width: 100%;
+}
+
+
+#hearing {
+    position: absolute;
+    bottom: 12%;
+    height: auto;
+    font-family: 'Calibri Light';
+    color: white;
+    font-size: 28px;
+    display: block;
+    background: rgba(0, 0, 0, .8);
+    z-index: 2147483647;
+    width: 100%;
+}
+
+
+/*
+video::-webkit-media-controls-enclosure {
+    display:inline-block !important;
+}
+*/
